@@ -1,0 +1,6 @@
+{
+  "name": "OffGamX — Wide Gaming Portal",
+  "description": "Play the Best Free Browser Games in Wide Mode. 25+ free HD browser games with real progression, instant play, and responsive controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

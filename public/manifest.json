@@ -1,0 +1,17 @@
+{
+  "short_name": "OffGamX",
+  "name": "OffGamX — Wide Gaming Portal",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#f8fafc",
+  "theme_color": "#0284c7",
+  "display": "standalone",
+  "orientation": "any",
+  "description": "Play the Best Free Browser Games in Wide Mode."
+}
